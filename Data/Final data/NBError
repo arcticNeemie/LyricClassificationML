@@ -1,0 +1,20 @@
+with stemming, without stop words, testing size = 420, training size = 1680: 
+Accuracy: 23%
+Training error: 0.0005952380952380953
+Testing error: 0.002380952380952381
+
+without stemming, testing size = 420,  training size = 1680, without stop words: 
+Accuracy: 8.333333333333332
+Training error: 0.0005952380952380953
+Testing error: 0.002380952380952381
+
+without stemming, testing size = 420 training size = 1680, with stop words: 
+Accuracy: 25.476190476190474
+Training error: 0.0005952380952380953
+Testing error: 0.002380952380952381
+
+whole data set no stemming without top words:
+Accuracy: 24.333333333333336
+training: 0.0004166666666666667
+testing: 0.0016666666666666668
+
